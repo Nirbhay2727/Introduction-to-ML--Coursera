@@ -1,1 +1,2 @@
-# Introduction-to-ML--Andrew-Ng
+# Introduction-to-ML--Coursera
+Answer to course exercises.
